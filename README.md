@@ -1,3 +1,3 @@
 # The code of the video
 
-Code open source
+Don't share the code.
